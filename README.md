@@ -25,7 +25,7 @@ YouTube Comment Mentions adds an `@` button to every comment and reply box (and 
 
 Already-open YouTube tabs get the extension right away without needing a page refresh. Keep the extracted folder on your computer, as the browser loads the extension from it.
 
-### Firefox
+### Firefox (not available right now)
 
 1. Download the latest ZIP file from the [Releases](../../releases) page.
 2. Open `about:debugging#/runtime/this-firefox` in a new tab.
